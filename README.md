@@ -25,7 +25,8 @@ Identifying which one of the conversions is fluctuating most.
 
 
  
-![image](https://github.com/Souviklakshman/swiggy_funnel_analysis/assets/138977501/0f99e781-dae7-422b-be7e-4af2eb6db909)
+<img width="687" alt="Screenshot 2023-07-15 at 3 31 52 PM" src="https://github.com/Souviklakshman/swiggy_funnel_analysis/assets/138977501/e2329db5-0326-4120-9be3-fd74b06992a1">
+
 
 
 Here we can identify that M2C (Menu to Cart) is fluctuating most
