@@ -24,13 +24,8 @@ Here we can identify that low in order in the respective charts above; especiall
 Identifying which one of the conversions is fluctuating most.
 
 
- 	Revised  L2M	Revised  M2C	Revised  C2P	Revised  P2O	Overall
-Revised  L2M	1				
-Revised  M2C	-0.088209012	1			
-Revised  C2P	-0.055262654	-0.022398498	1		
-Revised  P2O	-0.032464689	-0.062303686	-0.013798031	1	
-Overall	0.391620496	0.587006383	0.37159369	0.28926582	1
-![image](https://github.com/Souviklakshman/swiggy_funnel_analysis/assets/138977501/6226a508-cab4-43da-a39f-5411d729bdc7)
+ 
+![image](https://github.com/Souviklakshman/swiggy_funnel_analysis/assets/138977501/0f99e781-dae7-422b-be7e-4af2eb6db909)
 
 
 Here we can identify that M2C (Menu to Cart) is fluctuating most
