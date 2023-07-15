@@ -1,7 +1,7 @@
 # swiggy_funnel_analysis
 SWIGGY's performance throughout the year 2019
 
-Date of High in Order with respect to the same day last week
+1) Date of High in Order with respect to the same day last week
 
 
 <img width="452" alt="image" src="https://github.com/Souviklakshman/swiggy_funnel_analysis/assets/138977501/23d6aac3-2604-4484-8133-08c8773bd2d9">
@@ -10,7 +10,7 @@ Date of High in Order with respect to the same day last week
 Here we can identify that high in order in the respective charts above; especially on the 17th of Jan, 5th Feb,26th of Feb,9th of March,11th of April,27th of June, 23rd of July, 18th August, 21st of September and 24th November in the year of 2019 has the high order value.
 
 
-Date of Low in Order with respect to the same day last week
+2) Date of Low in Order with respect to the same day last week
 
 
 
@@ -21,7 +21,7 @@ Date of Low in Order with respect to the same day last week
 Here we can identify that low in order in the respective charts above; especially on the 29th of Jan, 19th Feb, 4th of April,20th of June, 16th of July, 11th of August, 14th of September and 17th of November in the year of 2019 has the lowest order value.
 
 
-Identifying which one of the conversions is fluctuating most.
+3) Identifying which one of the conversions is fluctuating most.
 
 
  
@@ -36,7 +36,7 @@ Here we can identify that M2C (Menu to Cart) is fluctuating most
 
 
 
-Possibility for fluctuation in conversion
+4) Possibility for fluctuation in conversion
 
 
 
@@ -52,7 +52,7 @@ Possibility for fluctuation in conversion
 Count of restaurants low, average discount high, low in out-of-stock items, average delivery charge
 
 
-Identifying traffic fluctuation as compared to the same day last week 
+5) Identifying traffic fluctuation as compared to the same day last week 
 
 
 
@@ -63,7 +63,7 @@ Identifying traffic fluctuation as compared to the same day last week
 The reason for the fluctuation in traffic is – when the count of restaurants become low the traffic was low and when the count of a restaurant become high traffic becomes high. Out-of-stock item per restaurant fluctuate based on that when OOS item/restaurant become low traffic becomes low.
 
 
-Identifying Overall conversion fluctuation as compared to the same day last week
+6) Identifying Overall conversion fluctuation as compared to the same day last week
 
 
 
@@ -74,8 +74,7 @@ Smaller conversion impacting L2M – become low, M2C- those who visit the menu m
 So in a nutshell it is impacting the increasing of order.
 
 
-Identifying the smaller conversion leading to an increase or 
-decrease in the orders, using  supporting data 
+7) Identifying the smaller conversion leading to an increase or decrease in the orders, using  supporting data 
 
 
 
