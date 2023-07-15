@@ -1,5 +1,6 @@
 # swiggy_funnel_analysis
-SWIGGY's performance throughout the year 2019
+**
+SWIGGY's performance throughout the year 2019**
 
 1) Date of High in Order with respect to the same day last week
 
