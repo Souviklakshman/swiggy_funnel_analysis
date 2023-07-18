@@ -57,7 +57,8 @@ Count of restaurants low, average discount high, low in out-of-stock items, aver
 
 
 
-![image](https://github.com/Souviklakshman/swiggy_funnel_analysis/assets/138977501/e4c218df-8e70-46a9-8189-d4966b4ec8ab)
+<img width="646" alt="Screenshot 2023-07-18 at 1 21 00 PM" src="https://github.com/Souviklakshman/swiggy_funnel_analysis/assets/138977501/6026afd0-45ec-47a3-a099-ae7aa747c86f">
+
 
 
 
