@@ -12,7 +12,7 @@ SWIGGY's performance throughout the year 2019**
 •	Date 1/22/2019 has high change in order with 85% as traffic from twitter is increase by 77%,
 •	Date 2/5/2019 has high change in order with 115% as there is an increase in conversion rates because of high number(408982) of resturants and 39 number of images per resturant,
 •	Date 2/26/2019 has high change in order with 120% as there is an increase in conversion rates because of high number(400671) of resturants and 40 number of images per resturant, and so on.
-![image](https://github.com/Souviklakshman/swiggy_funnel_analysis/assets/138977501/5dcba375-47eb-457e-8f87-b487c7fb81b7)
+
 
 
 
@@ -28,7 +28,6 @@ SWIGGY's performance throughout the year 2019**
 •	Date 1/29/2019 has lowest change in order with -72% as traffic from other sources were reduced.  
 •	Date 2/19/2019 has lowest change in order with -56% as there is change in conversion because of factor avg. cost for 2 person is high i.e. 350
 •	Date 4/4/2019 has a drop in change of order by -52% as there is change in conversion rate because the avg. discount offered was only 10% and so on.
-![image](https://github.com/Souviklakshman/swiggy_funnel_analysis/assets/138977501/ef7cab0c-1353-4cb4-9cfb-e102ff031e31)
 
 
 
