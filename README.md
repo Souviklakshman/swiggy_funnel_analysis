@@ -61,7 +61,12 @@ Count of restaurants low, average discount high, low in out-of-stock items, aver
 
 
 
-The reason for the fluctuation in traffic is – when the count of restaurants become low the traffic was low and when the count of a restaurant become high traffic becomes high. Out-of-stock item per restaurant fluctuate based on that when OOS item/restaurant become low traffic becomes low.
+On date 1/10/2019 there is decrease in traffic from other sources by -49% there is an impact on the number of orders and conversions leading to decrease in the number of orders.
+On date 1/17/2019 there is an increase in traffic from facebook by 110%, thus resulting into increase in number of orders by 106%.
+On date 1/22/2019 there is an increase in traffic from twitter by 77%, thus resulting into increase in number of orders by 77%.
+On date 1/29/2019 there is decrease in traffic from youtube by -40%, thus resulting into decrease in number of orders by -72%.
+On date 6/20/2019 there is decrease in traffic from other sources by -53%, thus resulting into decrease in number of orders by -54%.
+On date 6/27/2019 there is an increase in traffic from facebook by 110%, thus resulting into increase in number of orders by 106%.
 
 
 6) Identifying Overall conversion fluctuation as compared to the same day last week
