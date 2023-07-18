@@ -93,6 +93,64 @@ So in a nutshell it is impacting the increasing of order.
 In smaller conversion lending the Average packaging is lower, the Discount is higher and the out-of-stock item is lesser compared to other days.
 
 
+8) Conclusion: Reason for Overall Conversion Flactuation
+
+DATE	Fluctuation in Conversion	Reason
+1/29/2019
+	-52%
+	There is change in -52% conversion rate as the stock of item per resyurant is only 31 and avg. delivery charges is 25.
+2/5/2019
+	115%
+	Conversion is increased by 115% as number of resturant is high and number of images per resturant is 39.
+2/19/2019
+	-54%
+	Avg. cost per person is 350
+2/26/2019
+	116%
+	No. of resturant is high and images are 40
+3/2/2019
+	-42%
+	Avg packing charges is 18
+3/9/2019
+	102%
+	No. of resturant is high
+3/19/2019
+	-47%
+	avg. delivery charges is 25.
+3/26/2019
+	87%
+	avg. delivery charges is 25.
+4/4/2019
+	-53%
+	Discount is only 10%
+4/11/2019
+	107%
+	No. of resturant images are high
+7/16/2019
+	-59%
+	Avg cost per person is 458
+7/23/2019
+	128%
+	High out of stocks per resturant, high packing charges and high delivery charges
+8/11/2019
+	-54%
+	High packing charges
+8/18/2019
+	100%
+	High no. of images 
+9/14/2019
+	-51%
+	High out of stocks per resturant, high packing charges
+9/21/2019
+	114%
+	avg. delivery charges is 25.
+11/17/2019
+	-54%
+	Highest Out of stock Items per restaurant
+11/24/2019
+	124%
+	Highest Avg Cost for two
+![image](https://github.com/Souviklakshman/swiggy_funnel_analysis/assets/138977501/75e32cd2-2e40-4287-bdad-4853b6a2c753)
 
 
 
